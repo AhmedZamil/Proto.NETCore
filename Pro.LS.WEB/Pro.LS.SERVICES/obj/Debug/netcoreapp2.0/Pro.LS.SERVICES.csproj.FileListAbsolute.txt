@@ -1,0 +1,8 @@
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\bin\Debug\netcoreapp2.0\Pro.LS.SERVICES.deps.json
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\bin\Debug\netcoreapp2.0\Pro.LS.SERVICES.dll
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\bin\Debug\netcoreapp2.0\Pro.LS.SERVICES.pdb
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.csproj.CoreCompileInputs.cache
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.AssemblyInfoInputs.cache
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.AssemblyInfo.cs
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.dll
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.pdb
