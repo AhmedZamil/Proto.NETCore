@@ -1,7 +1,6 @@
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\bin\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.deps.json
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\bin\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.dll
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\bin\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.pdb
-E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\obj\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.csprojAssemblyReference.cache
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\obj\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\obj\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.AssemblyInfoInputs.cache
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.INFRASTRUCTURE\obj\Debug\netcoreapp2.0\Pro.LS.INFRASTRUCTURE.AssemblyInfo.cs

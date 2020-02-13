@@ -6,4 +6,3 @@ E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\De
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.AssemblyInfo.cs
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.dll
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.pdb
-E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.SERVICES\obj\Debug\netcoreapp2.0\Pro.LS.SERVICES.csprojAssemblyReference.cache

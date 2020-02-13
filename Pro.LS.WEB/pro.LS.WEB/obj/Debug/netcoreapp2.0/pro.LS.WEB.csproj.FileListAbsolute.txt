@@ -1,0 +1,12 @@
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.deps.json
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.runtimeconfig.json
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.runtimeconfig.dev.json
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.dll
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.pdb
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.csprojAssemblyReference.cache
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.csproj.CoreCompileInputs.cache
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.AssemblyInfoInputs.cache
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.AssemblyInfo.cs
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.dll
+E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.pdb

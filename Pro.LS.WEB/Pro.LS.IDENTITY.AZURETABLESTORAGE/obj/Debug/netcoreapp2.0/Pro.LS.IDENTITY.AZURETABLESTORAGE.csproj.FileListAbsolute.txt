@@ -1,7 +1,6 @@
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\bin\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.deps.json
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\bin\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.dll
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\bin\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.pdb
-E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\obj\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.csprojAssemblyReference.cache
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\obj\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.csproj.CoreCompileInputs.cache
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\obj\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.AssemblyInfoInputs.cache
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\Pro.LS.IDENTITY.AZURETABLESTORAGE\obj\Debug\netcoreapp2.0\Pro.LS.IDENTITY.AZURETABLESTORAGE.AssemblyInfo.cs
