@@ -676,23 +676,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lz\\.nuget\\packages\\": {},
+    "C:\\Users\\ahmed\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Workshop\\HPQLS(.NetCore)\\Code\\Proto.NETCore\\Pro.LS.WEB\\Pro.LS.INFRASTRUCTURE\\Pro.LS.INFRASTRUCTURE.csproj",
+      "projectUniqueName": "F:\\Dream Works\\Repositories\\Proto.NETCore\\Pro.LS.WEB\\Pro.LS.INFRASTRUCTURE\\Pro.LS.INFRASTRUCTURE.csproj",
       "projectName": "Pro.LS.INFRASTRUCTURE",
-      "projectPath": "E:\\Workshop\\HPQLS(.NetCore)\\Code\\Proto.NETCore\\Pro.LS.WEB\\Pro.LS.INFRASTRUCTURE\\Pro.LS.INFRASTRUCTURE.csproj",
-      "packagesPath": "C:\\Users\\lz\\.nuget\\packages\\",
-      "outputPath": "E:\\Workshop\\HPQLS(.NetCore)\\Code\\Proto.NETCore\\Pro.LS.WEB\\Pro.LS.INFRASTRUCTURE\\obj\\",
+      "projectPath": "F:\\Dream Works\\Repositories\\Proto.NETCore\\Pro.LS.WEB\\Pro.LS.INFRASTRUCTURE\\Pro.LS.INFRASTRUCTURE.csproj",
+      "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
+      "outputPath": "F:\\Dream Works\\Repositories\\Proto.NETCore\\Pro.LS.WEB\\Pro.LS.INFRASTRUCTURE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -10,3 +10,15 @@ E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\n
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.AssemblyInfo.cs
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.dll
 E:\Workshop\HPQLS(.NetCore)\Code\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.pdb
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.deps.json
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.runtimeconfig.json
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.runtimeconfig.dev.json
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.dll
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\bin\Debug\netcoreapp2.0\pro.LS.WEB.pdb
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.csprojAssemblyReference.cache
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.csproj.CoreCompileInputs.cache
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.AssemblyInfoInputs.cache
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.AssemblyInfo.cs
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.dll
+F:\Dream Works\Repositories\Proto.NETCore\Pro.LS.WEB\pro.LS.WEB\obj\Debug\netcoreapp2.0\pro.LS.WEB.pdb
